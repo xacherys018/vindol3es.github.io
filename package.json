@@ -21,3 +21,11 @@
   "author": "",
   "license": "MIT"
 }
+
+{
+  "dependencies": {
+    "gatsby": "^3.14.1",
+    "gatsby-plugin-gatsby-cloud": "^X.X.X", // Reemplaza X.X.X con la versión correcta
+    // Otras dependencias...
+  }
+}
