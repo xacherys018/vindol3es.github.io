@@ -25,7 +25,6 @@
 {
   "dependencies": {
     "gatsby": "^3.14.1",
-    "gatsby-plugin-gatsby-cloud": "^X.X.X", // Reemplaza X.X.X con la versión correcta
-    // Otras dependencias...
+    "gatsby-plugin-gatsby-cloud": "^X.X.X", 
   }
 }
